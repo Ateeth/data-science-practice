@@ -1,301 +1,301 @@
-location.name,location.country,location.region,location.lat,location.lon,location.timezone_id,location.localtime,current.observation_time,current.temperature,current.weather_descriptions,current.wind_speed,current.wind_degree,current.wind_dir,current.pressure,current.precip,current.humidity,current.cloudcover,current.feelslike,current.uv_index,current.visibility,current.is_day
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/19/2021 17:43,12:13 PM,26,"Light Rain, Rain Shower",9,320,NW,1004,0.3,94,100,28,6,3,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/19/2021 20:29,2:59 PM,22,Light rain,1,63,ENE,1007,1.3,98,100,25,5,9,no
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/19/2021 20:29,2:59 PM,28,Mist,0,0,N,1005,3.1,84,75,36,5,3,no
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/19/2021 20:29,2:59 PM,28,"Haze, Light Rain With Thunderstorm",11,70,ENE,1001,4.7,74,75,31,7,4,no
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/19/2021 20:29,2:59 PM,29,Light rain shower,12,247,WSW,1000,2.1,74,60,34,6,10,no
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/19/2021 20:29,2:59 PM,27,Light rain shower,13,272,W,1007,0.7,73,86,30,6,10,no
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/19/2021 20:29,2:59 PM,28,Mist,9,190,S,1002,0,84,75,30,7,4,no
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/19/2021 20:29,2:59 PM,36,Partly cloudy,8,349,N,998,0,40,6,40,9,10,no
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/19/2021 20:29,2:59 PM,27,Partly cloudy,6,284,WNW,1003,0,67,11,29,7,10,no
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/19/2021 20:29,2:59 PM,25,Haze,11,150,SSE,1006,6,94,50,28,5,4,no
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/19/2021 20:29,2:59 PM,22,Rain,13,300,WNW,1012,0.4,88,75,25,6,3,no
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/19/2021 20:29,2:59 PM,27,Haze,9,290,WNW,1008,0,84,25,30,6,5,no
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/19/2021 20:29,2:59 PM,25,Light Drizzle,7,250,WSW,1005,0,89,75,28,5,3,no
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/19/2021 20:29,2:59 PM,26,"Light Drizzle, Rain Shower",0,0,N,1006,0,94,100,28,7,3,no
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/19/2021 20:29,2:59 PM,21,Light drizzle,3,282,WNW,1008,0.4,97,96,21,5,2,no
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/19/2021 20:29,2:59 PM,18,Moderate rain,5,192,SSW,1009,2.6,98,94,18,4,7,no
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/19/2021 20:29,2:59 PM,19,Light rain shower,1,248,WSW,1009,2.3,99,100,19,4,10,no
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/19/2021 20:29,2:59 PM,28,Haze,7,190,S,1003,0,89,75,32,7,5,no
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/19/2021 20:29,2:59 PM,33,Haze,0,325,NW,1001,0,49,50,33,9,3,no
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/19/2021 20:29,2:59 PM,30,Haze,13,200,SSW,1004,0,70,50,34,7,5,no
-Gangtok,India,Sikkim,27.333,88.617,Asia/Kolkata,8/19/2021 20:29,2:59 PM,13,Moderate or heavy rain shower,3,195,SSW,1010,4.2,100,100,14,3,7,no
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/19/2021 20:29,2:59 PM,30,Haze,13,200,SSW,1004,0,70,50,34,7,5,no
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/20/2021 6:45,1:15 AM,23,Light rain shower,16,264,W,1003,0.1,96,99,25,1,10,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/20/2021 6:45,1:15 AM,22,Light rain,3,224,SW,1007,1,100,100,25,1,9,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/20/2021 6:45,1:15 AM,25,Light rain,0,124,SE,1007,0.9,97,100,28,1,10,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/20/2021 6:45,1:15 AM,26,Mist,19,110,ESE,1003,0.1,89,75,29,1,3,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/20/2021 6:45,1:15 AM,25,Moderate or heavy rain shower,10,217,SW,1002,2.3,91,65,29,1,9,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/20/2021 6:45,1:15 AM,26,Light rain shower,5,321,NW,1006,0.3,84,56,28,1,10,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/20/2021 6:45,1:15 AM,26,Overcast,11,216,SW,1003,0,85,81,29,1,10,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/20/2021 6:45,1:15 AM,25,Partly cloudy,9,131,SE,1002,0,81,9,27,1,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/20/2021 6:45,1:15 AM,17,Partly cloudy,5,76,ENE,1006,0,89,21,17,1,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/20/2021 6:45,1:15 AM,25,Haze,15,170,S,1008,0.6,89,75,28,1,3,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/20/2021 6:45,1:15 AM,21,Partly cloudy,12,255,WSW,1008,0,86,38,21,1,10,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/20/2021 6:45,1:15 AM,24,Partly cloudy,8,329,NNW,1008,0.1,92,64,27,1,10,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/20/2021 6:45,1:15 AM,23,Partly cloudy,7,240,WSW,1005,1.4,94,75,25,1,10,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/20/2021 6:45,1:15 AM,25,"Light Drizzle, Rain Shower",0,0,N,1005,0.1,100,75,27,1,3,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/20/2021 6:45,1:15 AM,21,Moderate rain,2,203,SSW,1009,3.4,99,100,21,1,7,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/20/2021 6:45,1:15 AM,21,Light rain,4,192,SSW,1009,1.4,99,100,21,1,9,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/20/2021 6:45,1:15 AM,18,Light rain,1,180,S,1010,0.9,99,100,18,1,4,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/20/2021 6:45,1:15 AM,26,Haze,4,120,ESE,1004,0.2,100,75,29,1,5,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/20/2021 6:45,1:15 AM,29,Haze,9,300,WNW,1003,0,70,75,31,1,3,yes
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/20/2021 6:45,1:15 AM,27,Light Drizzle,13,280,W,1005,0.4,84,75,29,1,4,yes
-Gangtok,India,Sikkim,27.333,88.617,Asia/Kolkata,8/20/2021 6:45,1:15 AM,17,Mist,7,180,S,1021,26.2,94,100,17,1,4,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/21/2021 14:20,8:50 AM,27,Light rain shower,8,238,WSW,1007,2.1,78,100,30,6,10,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/21/2021 14:23,8:53 AM,25,Moderate or heavy rain shower,9,214,SW,1009,2.6,86,88,28,6,7,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/21/2021 14:24,8:54 AM,32,Haze,13,270,W,1006,0.9,59,75,40,7,5,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/21/2021 14:24,8:54 AM,31,Haze,15,110,ESE,1005,3.2,55,50,38,7,5,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/21/2021 14:24,8:54 AM,28,Partly cloudy,9,152,SSE,1008,0,74,55,32,7,10,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/21/2021 14:24,8:54 AM,28,Partly cloudy,10,258,WSW,1010,0,72,47,32,7,10,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/21/2021 14:24,8:54 AM,27,Light Drizzle,7,330,NNW,1006,0,89,75,29,7,4,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/21/2021 14:24,8:54 AM,25,Light rain,3,101,ESE,1009,0.8,83,88,28,6,9,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/21/2021 14:24,8:54 AM,21,Light rain,1,51,NE,1012,1.4,89,100,21,5,9,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/21/2021 14:24,8:54 AM,30,Haze,15,190,S,1010,0,70,50,36,7,4,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/21/2021 14:24,8:54 AM,24,Rain,13,160,SSE,1013,0,69,75,25,7,3,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/21/2021 14:24,8:54 AM,29,Partly cloudy,19,290,WNW,1008,0,84,50,32,7,6,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/21/2021 14:24,8:54 AM,28,Haze,6,230,SW,1007,4.3,74,75,33,6,5,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/21/2021 14:24,8:54 AM,26,"Haze, Rain Shower",19,270,W,1007,23,94,100,30,6,3,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/21/2021 14:24,8:54 AM,26,Cloudy,6,269,W,1010,0,80,65,29,6,10,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/21/2021 14:24,8:54 AM,21,Moderate or heavy rain shower,3,227,SW,1012,2.9,91,64,21,5,7,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/21/2021 14:24,8:54 AM,23,Moderate or heavy rain shower,5,304,NW,1011,2.7,93,66,25,5,7,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/21/2021 14:24,8:54 AM,32,Haze,15,200,SSW,1006,0,71,75,36,7,4,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/22/2021 6:59,1:29 AM,24,Mist,7,265,W,1007,0,93,61,27,1,7,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/22/2021 6:59,1:29 AM,22,Mist,5,269,W,1008,0,97,53,22,1,2,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/22/2021 6:59,1:29 AM,28,Mist,0,0,N,1006,0,84,75,35,1,5,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/22/2021 6:59,1:29 AM,26,Mist,0,0,N,1006,0.9,84,75,29,1,3,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/22/2021 6:59,1:29 AM,26,Patchy rain possible,9,234,SW,1007,0.1,80,80,29,1,10,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/22/2021 6:59,1:29 AM,26,Light rain shower,3,204,SSW,1008,0.3,85,76,28,1,9,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/22/2021 6:59,1:29 AM,26,Mist,11,220,SW,1005,0.3,94,75,29,1,3,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/22/2021 6:59,1:29 AM,23,Light rain shower,8,84,E,1007,0.1,81,54,25,1,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/22/2021 6:59,1:29 AM,16,Cloudy,5,74,ENE,1011,0,90,62,16,1,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/22/2021 6:59,1:29 AM,25,Haze,7,260,W,1011,0.1,89,50,28,1,3,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/22/2021 6:59,1:29 AM,20,Partly cloudy,0,246,WSW,1014,0.1,94,75,20,1,6,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/22/2021 6:59,1:29 AM,26,"Mist, Haze",7,340,NNW,1009,0,89,50,30,1,3,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/22/2021 6:59,1:29 AM,24,Mist,9,220,SW,1008,0,94,75,27,1,2,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/22/2021 6:59,1:29 AM,26,Haze,9,150,SSE,1008,0.4,94,75,29,1,3,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/22/2021 6:59,1:29 AM,21,Fog,3,286,WNW,1010,0,99,100,21,1,0,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/22/2021 6:59,1:29 AM,21,Light rain shower,6,213,SSW,1011,0.3,98,82,21,1,10,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/22/2021 6:59,1:29 AM,19,Light rain shower,2,239,WSW,1010,0.3,98,88,19,1,10,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/22/2021 6:59,1:29 AM,28,Haze,0,0,N,1008,0,89,50,33,1,5,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/22/2021 6:59,1:29 AM,27,"Rain, Rain With Thunderstorm",15,120,ESE,1006,0.9,89,75,30,1,2,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/23/2021 6:30,1:00 AM,24,Partly cloudy,12,252,WSW,1006,0.2,90,61,27,1,9,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/23/2021 6:30,1:00 AM,22,Light rain,4,257,WSW,1005,0.7,97,100,24,1,10,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/23/2021 6:30,1:00 AM,24,Patchy light rain,3,253,WSW,1004,0.6,95,74,27,1,10,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/23/2021 6:30,1:00 AM,30,Moderate or heavy rain shower,10,261,W,1003,2.3,76,74,36,1,9,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/23/2021 6:30,1:00 AM,25,Partly cloudy,10,231,SW,1006,0,83,32,28,1,10,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/23/2021 6:30,1:00 AM,26,Partly cloudy,3,232,SW,1008,0.1,87,72,30,1,9,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/23/2021 6:30,1:00 AM,27,Partly cloudy,10,207,SSW,1005,0,81,27,30,1,10,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/23/2021 6:30,1:00 AM,25,Partly cloudy,7,94,E,1004,0,80,24,27,1,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/23/2021 6:30,1:00 AM,16,Partly cloudy,4,87,E,1008,0,92,22,16,1,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/23/2021 6:30,1:00 AM,24,Haze,11,270,W,1008,0,89,50,26,1,3,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/23/2021 6:30,1:00 AM,20,Partly cloudy,9,270,W,1014,0.9,94,75,20,1,6,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/23/2021 6:30,1:00 AM,25,Partly cloudy,5,339,NNW,1009,0,91,23,28,1,10,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/23/2021 6:30,1:00 AM,24,Haze,11,200,SSW,1008,0,100,50,27,1,3,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/23/2021 6:34,1:04 AM,27,Partly cloudy,9,172,S,1007,0,83,51,31,1,10,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/23/2021 6:35,1:05 AM,21,Fog,3,286,WNW,1007,0.1,97,93,21,1,1,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/23/2021 6:35,1:05 AM,21,Light rain shower,8,210,SSW,1008,0.4,96,74,21,1,10,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/23/2021 6:35,1:05 AM,19,Mist,3,204,SSW,1008,0.1,96,61,19,1,2,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/23/2021 6:35,1:05 AM,27,Patchy rain possible,14,215,SW,1006,0.1,83,76,31,1,10,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/23/2021 6:35,1:05 AM,28,Partly cloudy,10,218,SW,1003,0,71,14,31,1,10,yes
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/23/2021 6:35,1:05 AM,27,Partly cloudy,17,211,SSW,1007,0,76,30,30,1,10,yes
-Gangtok,India,Sikkim,27.333,88.617,Asia/Kolkata,8/23/2021 6:35,1:05 AM,19,Moderate rain,1,239,WSW,1009,2.9,98,96,19,1,8,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/24/2021 10:04,4:34 AM,26,Partly cloudy,12,271,W,1008,0,84,19,29,7,10,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/24/2021 10:04,4:34 AM,21,Moderate rain,3,160,SSE,1005,2.6,99,100,21,5,7,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/24/2021 10:04,4:34 AM,31,Haze,6,300,WNW,1004,0.4,71,75,42,6,5,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/24/2021 10:05,4:35 AM,27,Mist,6,250,WSW,1004,0,84,75,29,8,4,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/24/2021 10:05,4:35 AM,27,Partly cloudy,14,234,SW,1007,0,78,34,30,7,10,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/24/2021 10:05,4:35 AM,26,Partly cloudy,5,110,ESE,1009,0,85,36,29,7,10,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/24/2021 10:05,4:35 AM,29,Haze,9,300,WNW,1007,0,79,50,35,6,4,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/24/2021 10:05,4:35 AM,28,Partly cloudy,2,56,NE,1003,0,75,25,31,7,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/24/2021 10:05,4:35 AM,23,Partly cloudy,2,62,ENE,1006,0,84,26,25,6,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/24/2021 10:05,4:35 AM,28,Haze,9,280,W,1010,0,79,75,32,7,3,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/24/2021 10:05,4:35 AM,24,Partly cloudy,11,290,WNW,1015,0.5,78,50,26,5,6,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/24/2021 10:05,4:35 AM,30,Partly cloudy,0,328,NNW,1011,0,70,25,38,7,6,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/24/2021 10:05,4:35 AM,26,Haze,20,210,SSW,1010,0,84,50,30,6,3,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/24/2021 10:05,4:35 AM,29,Haze,9,230,SW,1008,0.1,84,50,35,6,3,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/24/2021 10:05,4:35 AM,21,Fog,1,243,WSW,1008,0,98,100,21,5,0,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/24/2021 10:05,4:35 AM,23,Light rain shower,6,219,SW,1008,0.6,96,74,25,5,10,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/24/2021 10:05,4:35 AM,21,Moderate rain,3,165,SSE,1008,3,99,100,21,5,7,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/24/2021 10:05,4:35 AM,31,Partly cloudy,6,280,W,1006,0,75,25,37,7,6,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/24/2021 10:05,4:35 AM,31,Haze,15,280,W,1006,0,59,50,36,7,4,yes
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/24/2021 10:05,4:35 AM,31,Haze,9,220,SW,1009,0.1,71,25,38,6,5,yes
-Gangtok,India,Sikkim,27.333,88.617,Asia/Kolkata,8/24/2021 10:05,4:35 AM,23,Partly cloudy,7,110,ESE,1018,0,53,75,25,4,10,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/21/2021 14:24,8:54 AM,31,Haze,0,303,WNW,1005,4.7,59,75,34,7,4,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/25/2021 8:40,3:10 AM,25,Clear,11,268,W,1005,0,87,22,27,1,10,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/25/2021 8:40,3:10 AM,23,Heavy rain,2,53,NE,1003,42,100,100,25,5,5,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/25/2021 8:40,3:10 AM,28,Mist,6,350,N,1002,8.6,84,75,36,5,3,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/25/2021 8:40,3:10 AM,25,Light Rain,6,190,S,1001,0.1,94,100,27,7,3,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/25/2021 8:40,3:10 AM,25,Partly cloudy,13,236,SW,1004,0,88,53,28,1,10,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/25/2021 8:40,3:10 AM,26,Light rain shower,7,195,SSW,1008,1.3,84,39,29,1,10,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/25/2021 8:40,3:10 AM,27,Mist,17,260,W,1005,0,84,75,30,1,4,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/25/2021 8:40,3:10 AM,25,Partly cloudy,6,123,ESE,999,0,71,40,27,1,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/25/2021 8:40,3:10 AM,17,Clear,5,58,ENE,1004,0,82,13,17,1,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/25/2021 8:40,3:10 AM,27,Haze,7,240,WSW,1007,0.5,84,50,32,5,4,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/25/2021 8:40,3:10 AM,21,Partly cloudy,11,280,W,1014,1.9,94,75,21,1,6,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/25/2021 8:40,3:10 AM,28,"Mist, Haze",0,0,N,1010,0.3,89,25,33,1,4,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/25/2021 8:40,3:10 AM,24,Haze,17,230,SW,1008,1.6,89,50,27,1,3,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/25/2021 8:40,3:10 AM,28,Haze,6,200,SSW,1007,0.9,89,50,33,1,3,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/25/2021 8:40,3:10 AM,20,Light rain shower,3,225,SW,1005,1,99,100,20,5,10,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/25/2021 8:40,3:10 AM,21,Moderate or heavy rain shower,5,209,SSW,1005,3.9,99,100,21,5,7,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/25/2021 8:40,3:10 AM,19,Mist,5,170,S,1005,0,96,67,19,4,2,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/25/2021 8:40,3:10 AM,29,Sunny,6,240,WSW,1004,0,84,0,34,7,6,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/25/2021 8:40,3:10 AM,29,Haze,9,280,W,1004,0,66,50,32,1,3,yes
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/25/2021 8:40,3:10 AM,29,Mist,15,240,WSW,1007,0,75,50,34,1,4,yes
-Gangtok,India,Sikkim,27.333,88.617,Asia/Kolkata,8/25/2021 8:40,3:10 AM,21,Partly cloudy,11,150,SSE,1016,11,69,75,21,4,8,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/26/2021 11:17,5:47 AM,26,Partly cloudy,22,272,W,1005,0,73,51,28,7,10,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/26/2021 11:17,5:47 AM,21,Moderate rain,1,176,S,1006,6.9,99,100,21,5,7,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/26/2021 11:17,5:47 AM,28,Light Rain,0,0,N,1002,2.8,84,100,35,6,4,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/26/2021 11:17,5:47 AM,25,Light Rain,0,0,N,1000,4.3,94,100,28,6,2,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/26/2021 11:17,5:47 AM,25,Patchy light drizzle,9,221,SW,1004,0.5,89,73,28,6,5,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/26/2021 11:17,5:47 AM,28,Light rain shower,7,227,SW,1008,0.9,78,38,31,6,10,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/26/2021 11:17,5:47 AM,30,Haze,19,250,WSW,1003,0,70,75,35,6,5,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/26/2021 11:17,5:47 AM,29,Sunny,6,164,SSE,999,0,59,16,31,7,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/26/2021 11:17,5:47 AM,23,Sunny,2,289,WNW,1002,0,63,24,25,6,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/26/2021 11:17,5:47 AM,29,Haze,11,340,NNW,1006,3.7,75,75,38,5,4,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/26/2021 11:17,5:47 AM,25,Partly cloudy,9,250,WSW,1012,0.3,65,50,27,5,10,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/26/2021 11:17,5:47 AM,28,Haze,0,270,W,1008,0.1,79,50,31,7,5,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/26/2021 11:17,5:47 AM,27,Haze,11,240,WSW,1007,0,74,75,31,6,4,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/26/2021 11:17,5:47 AM,29,Haze,22,240,WSW,1006,1,84,75,34,6,4,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/26/2021 11:17,5:47 AM,22,Cloudy,1,1,N,1008,0,93,72,25,5,10,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/26/2021 11:17,5:47 AM,19,Light drizzle,7,185,S,1007,0.4,95,96,19,4,2,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/26/2021 11:17,5:47 AM,23,Light rain shower,1,238,WSW,1007,0.2,85,75,26,5,10,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/26/2021 11:17,5:47 AM,32,Haze,7,210,SSW,1002,0,71,75,37,8,5,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/26/2021 11:17,5:47 AM,30,Haze,19,320,NW,1003,0,55,50,35,7,4,yes
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/26/2021 11:17,5:47 AM,34,Partly cloudy,11,330,NNW,1005,0.4,60,50,47,6,8,yes
-Gangtok,India,Sikkim,27.333,88.617,Asia/Kolkata,8/26/2021 11:17,5:47 AM,19,Mist,9,160,SSE,1017,0.8,83,100,19,3,4,yes
-Hyderabad,India,Andhra Pradesh,17.375,78.474,Asia/Kolkata,8/26/2021 11:17,5:47 AM,26,Partly cloudy,9,290,WNW,1010,0.5,89,75,29,6,6,yes
-Lucknow,India,Uttar Pradesh,26.85,80.917,Asia/Kolkata,8/26/2021 11:17,5:47 AM,31,Mist,9,320,NW,1000,0,89,100,37,7,4,yes
-Kolkata,India,West Bengal,22.57,88.37,Asia/Kolkata,8/26/2021 11:17,5:47 AM,33,Haze,7,300,WNW,1000,0,80,75,42,8,3,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/27/2021 8:12,2:42 AM,24,Partly cloudy,10,279,W,1004,0,79,13,26,1,10,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/27/2021 8:12,2:42 AM,22,Heavy rain,4,65,ENE,1006,25.3,100,100,25,5,5,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/27/2021 8:12,2:42 AM,27,Mist,6,40,NE,1005,15.9,89,100,33,5,3,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/27/2021 8:12,2:42 AM,26,Mist,6,130,SE,1003,1.4,89,75,29,6,3,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/27/2021 8:12,2:42 AM,26,Partly cloudy,8,276,W,1003,0,79,40,28,1,10,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/27/2021 8:12,2:42 AM,26,Partly cloudy,5,14,NNE,1005,0,85,44,29,1,10,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/27/2021 8:12,2:42 AM,26,Mist,13,230,SW,1003,0,84,25,28,1,3,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/27/2021 8:12,2:42 AM,27,Partly cloudy,9,118,ESE,1000,0,66,46,29,1,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/27/2021 8:12,2:42 AM,20,Partly cloudy,4,41,NE,1004,0,71,34,20,1,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/27/2021 8:12,2:42 AM,24,Haze,4,320,NW,1007,1,89,75,26,5,3,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/27/2021 8:12,2:42 AM,22,Overcast,13,260,W,1011,3.3,94,100,25,1,6,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/27/2021 8:12,2:42 AM,26,Haze,0,0,N,1008,0,94,75,29,1,4,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/27/2021 8:12,2:42 AM,24,Haze,9,180,S,1006,0,83,25,26,1,5,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/27/2021 8:12,2:42 AM,27,Haze,9,170,S,1005,1,89,75,30,1,3,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/27/2021 8:12,2:42 AM,20,Light rain shower,3,65,ENE,1007,1.9,99,100,20,5,10,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/27/2021 8:12,2:42 AM,21,Heavy rain,4,172,S,1006,14.7,99,100,21,5,5,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/27/2021 8:12,2:42 AM,18,Light rain,5,139,SE,1007,2.5,99,91,18,4,9,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/27/2021 8:12,2:42 AM,27,Haze,0,0,N,1003,0.2,94,100,32,1,3,yes
-Jaipur,India,Rajasthan,26.917,75.817,Asia/Kolkata,8/27/2021 8:20,2:50 AM,27,Haze,17,270,W,1003,0,70,50,29,1,3,yes
-Chennai,India,Tamil Nadu,13.083,80.283,Asia/Kolkata,8/27/2021 8:15,2:45 AM,27,Mist,6,260,W,1005,0.6,84,75,30,1,5,yes
-Gangtok,India,Sikkim,27.333,88.617,Asia/Kolkata,8/27/2021 8:20,2:50 AM,17,Overcast,0,49,NE,1020,0.9,94,100,17,4,5,yes
-Hyderabad,India,Andhra Pradesh,17.375,78.474,Asia/Kolkata,8/27/2021 8:20,2:50 AM,23,Light rain shower,12,285,WNW,1005,0.8,87,76,25,1,10,yes
-Lucknow,India,Uttar Pradesh,26.85,80.917,Asia/Kolkata,8/27/2021 8:20,2:50 AM,28,Mist,6,320,NW,1002,0.3,89,100,32,1,3,yes
-Kolkata,India,West Bengal,22.57,88.37,Asia/Kolkata,8/27/2021 8:20,2:50 AM,29,Haze,9,30,NNE,1003,0,89,75,36,6,3,yes
-Amaravati,India,Maharashtra,20.933,77.75,Asia/Kolkata,8/27/2021 12:49,7:19 AM,29,Partly cloudy,16,278,W,1006,0,60,18,32,7,10,yes
-Itanagar,India,Goa,27.1,93.617,Asia/Kolkata,8/27/2021 12:49,7:19 AM,23,Light rain,4,65,ENE,1009,1.4,98,100,25,5,9,yes
-Dispur,India,Assam,26.143,91.789,Asia/Kolkata,8/27/2021 12:49,7:19 AM,28,Light Rain,6,20,NNE,1005,0.5,84,75,36,5,4,yes
-Patna,India,Bihar,25.6,85.117,Asia/Kolkata,8/27/2021 12:49,7:19 AM,27,Light Rain,15,100,E,1003,0.1,84,75,30,6,3,yes
-Raipur,India,Chhattisgarh,21.233,81.633,Asia/Kolkata,8/27/2021 12:49,7:19 AM,29,Partly cloudy,6,282,WNW,1005,0,64,29,32,7,10,yes
-Panaji,India,Goa,15.483,73.833,Asia/Kolkata,8/27/2021 12:49,7:19 AM,28,Patchy rain possible,4,317,NW,1008,0.1,76,84,32,6,10,yes
-Gandhinagar,India,Gujarat,23.217,72.683,Asia/Kolkata,8/27/2021 12:49,7:19 AM,32,Smoke,15,220,SW,1003,0,56,50,37,7,5,yes
-Chandigarh,India,Chandigarh,30.737,76.787,Asia/Kolkata,8/27/2021 12:49,7:19 AM,31,Partly cloudy,10,152,SSE,1002,0,55,30,35,8,10,yes
-Shimla,India,Himachal Pradesh,31.103,77.172,Asia/Kolkata,8/27/2021 12:49,7:19 AM,22,Partly cloudy,5,300,WNW,1005,0,64,31,25,6,10,yes
-Ranchi,India,Jharkhand,23.35,85.333,Asia/Kolkata,8/27/2021 12:49,7:19 AM,30,"Light Rain, Light Rain With Thunderstorm",9,10,N,1007,0.1,75,50,37,6,4,yes
-Bengaluru,India,Karnataka,12.983,77.583,Asia/Kolkata,8/27/2021 12:49,7:19 AM,26,Partly cloudy,13,280,W,1011,0.3,70,75,28,5,6,yes
-Thiruvananthapuram,India,Kerala,8.507,76.957,Asia/Kolkata,8/27/2021 12:49,7:19 AM,30,Partly cloudy,19,290,WNW,1008,0,75,50,36,6,6,yes
-Bhopal,India,Madhya Pradesh,23.267,77.4,Asia/Kolkata,8/27/2021 12:49,7:19 AM,28,Haze,11,250,WSW,1007,0,70,50,32,7,5,yes
-Mumbai,India,Maharashtra,18.975,72.826,Asia/Kolkata,8/27/2021 12:49,7:19 AM,30,Haze,17,240,WSW,1005,0.2,75,75,36,6,4,yes
-Imphal,India,Manipur,24.817,93.95,Asia/Kolkata,8/27/2021 12:49,7:19 AM,24,Light rain shower,4,90,E,1009,0.3,93,57,26,5,10,yes
-Shillong,India,Meghalaya,25.576,91.873,Asia/Kolkata,8/27/2021 12:49,7:19 AM,20,Patchy rain possible,4,136,SE,1009,0.1,92,71,20,5,10,yes
-Kohima,India,Nagaland,25.667,94.117,Asia/Kolkata,8/27/2021 12:49,7:19 AM,21,Fog,2,125,SE,1010,0,98,100,21,5,0,yes
-Bhubaneshwar,India,Orissa,20.233,85.833,Asia/Kolkata,8/27/2021 12:49,7:19 AM,32,"Haze, Light Rain",4,70,ENE,1002,0.1,67,75,45,6,5,yes
-"Amaravati","India","Maharashtra","20.933","77.750","Asia/Kolkata","2021-08-28 07:37","02:07 AM",26,"Patchy rain possible",9,321,"NW",1002,0.1,76,83,29,1,10,"yes"
-"Itanagar","India","Goa","27.100","93.617","Asia/Kolkata","2021-08-28 07:37","02:07 AM",20,"Light rain",1,126,"SE",1005,2.2,100,100,20,1,9,"yes"
-"Dispur","India","Assam","26.143","91.789","Asia/Kolkata","2021-08-28 07:37","02:07 AM",28,"Mist",0,0,"N",1004,1.5,84,75,36,1,3,"yes"
-"Patna","India","Bihar","25.600","85.117","Asia/Kolkata","2021-08-28 07:37","02:07 AM",25,"Light Drizzle",6,20,"NNE",1002,0,94,75,28,1,3,"yes"
-"Raipur","India","Chhattisgarh","21.233","81.633","Asia/Kolkata","2021-08-28 07:37","02:07 AM",26,"Light rain shower",4,37,"NE",1001,0.5,86,50,29,1,10,"yes"
-"Panaji","India","Goa","15.483","73.833","Asia/Kolkata","2021-08-28 07:37","02:07 AM",26,"Light rain shower",12,303,"WNW",1004,1.1,84,62,28,1,10,"yes"
-"Gandhinagar","India","Gujarat","23.217","72.683","Asia/Kolkata","2021-08-28 07:37","02:07 AM",27,"Haze",9,260,"W",1003,0,79,75,29,1,4,"yes"
-"Chandigarh","India","Chandigarh","30.737","76.787","Asia/Kolkata","2021-08-28 07:37","02:07 AM",23,"Light rain shower",12,123,"ESE",1002,0.2,87,82,25,1,10,"yes"
-"Shimla","India","Himachal Pradesh","31.103","77.172","Asia/Kolkata","2021-08-28 07:37","02:07 AM",16,"Patchy rain possible",6,54,"NE",1005,0.1,85,79,16,1,10,"yes"
-"Ranchi","India","Jharkhand","23.350","85.333","Asia/Kolkata","2021-08-28 07:37","02:07 AM",24,"Mist",7,120,"ESE",1006,0.7,94,75,26,1,2,"yes"
-"Bengaluru","India","Karnataka","12.983","77.583","Asia/Kolkata","2021-08-28 07:37","02:07 AM",20,"Light Drizzle",13,260,"W",1010,4.6,94,75,20,1,6,"yes"
-"Thiruvananthapuram","India","Kerala","8.507","76.957","Asia/Kolkata","2021-08-28 07:37","02:07 AM",25,"Mist",7,360,"N",1007,1.2,94,75,28,1,3,"yes"
-"Bhopal","India","Madhya Pradesh","23.267","77.400","Asia/Kolkata","2021-08-28 07:37","02:07 AM",24,"Mist",4,250,"WSW",1006,0,89,25,26,1,3,"yes"
-"Mumbai","India","Maharashtra","18.975","72.826","Asia/Kolkata","2021-08-28 07:37","02:07 AM",27,"Haze",11,110,"ESE",1004,0.1,94,75,30,1,3,"yes"
-"Imphal","India","Manipur","24.817","93.950","Asia/Kolkata","2021-08-28 07:37","02:07 AM",20,"Fog",2,106,"ESE",1006,0,98,100,20,1,0,"yes"
-"Shillong","India","Meghalaya","25.576","91.873","Asia/Kolkata","2021-08-28 07:37","02:07 AM",20,"Light drizzle",6,193,"SSW",1006,0.7,99,100,20,1,2,"yes"
-"Kohima","India","Nagaland","25.667","94.117","Asia/Kolkata","2021-08-28 07:37","02:07 AM",18,"Fog",4,164,"SSE",1007,0,98,100,18,1,0,"yes"
-"Bhubaneshwar","India","Orissa","20.233","85.833","Asia/Kolkata","2021-08-28 07:37","02:07 AM",27,"Haze",4,340,"NNW",1001,0,94,75,31,1,5,"yes"
-"Amaravati","India","Maharashtra","20.933","77.750","Asia/Kolkata","2021-08-28 18:35","01:05 PM",31,"Partly cloudy",14,324,"NW",1000,0,59,46,35,8,10,"yes"
-"Itanagar","India","Goa","27.100","93.617","Asia/Kolkata","2021-08-28 18:35","01:05 PM",22,"Light rain shower",2,102,"ESE",1005,0.7,99,100,22,5,10,"no"
-"Dispur","India","Assam","26.143","91.789","Asia/Kolkata","2021-08-28 18:35","01:05 PM",29,"Mist",0,0,"N",1002,0,79,75,38,5,4,"no"
-"Patna","India","Bihar","25.600","85.117","Asia/Kolkata","2021-08-28 18:35","01:05 PM",27,"Mist",13,90,"E",1000,0.4,79,75,28,7,3,"no"
-"Raipur","India","Chhattisgarh","21.233","81.633","Asia/Kolkata","2021-08-28 18:35","01:05 PM",32,"Light rain shower",5,20,"NNE",999,0.8,59,62,38,7,10,"no"
-"Panaji","India","Goa","15.483","73.833","Asia/Kolkata","2021-08-28 18:35","01:05 PM",28,"Patchy rain possible",21,265,"W",1004,0.1,79,50,32,6,10,"yes"
-"Gandhinagar","India","Gujarat","23.217","72.683","Asia/Kolkata","2021-08-28 18:35","01:05 PM",33,"Partly cloudy",7,110,"ESE",1000,0,56,25,34,9,6,"yes"
-"Chandigarh","India","Chandigarh","30.737","76.787","Asia/Kolkata","2021-08-28 18:35","01:05 PM",35,"Partly cloudy",11,307,"NW",999,0,46,15,40,8,10,"yes"
-"Shimla","India","Himachal Pradesh","31.103","77.172","Asia/Kolkata","2021-08-28 18:35","01:05 PM",28,"Patchy rain possible",9,286,"WNW",1003,0.2,62,80,29,6,9,"yes"
-"Ranchi","India","Jharkhand","23.350","85.333","Asia/Kolkata","2021-08-28 18:35","01:05 PM",27,"Haze",0,0,"N",1004,0.3,84,75,29,6,4,"no"
-"Bengaluru","India","Karnataka","12.983","77.583","Asia/Kolkata","2021-08-28 18:35","01:05 PM",24,"Thunderstorm, Rain With Thunderstorm",20,250,"WSW",1007,0.3,69,75,26,5,6,"yes"
-"Thiruvananthapuram","India","Kerala","8.507","76.957","Asia/Kolkata","2021-08-28 18:35","01:05 PM",25,"Heavy Rain",15,320,"NW",1007,0,94,100,27,6,2,"no"
-"Bhopal","India","Madhya Pradesh","23.267","77.400","Asia/Kolkata","2021-08-28 18:35","01:05 PM",27,"Haze",0,0,"N",1003,0,74,75,29,8,5,"yes"
-"Mumbai","India","Maharashtra","18.975","72.826","Asia/Kolkata","2021-08-28 18:35","01:05 PM",30,"Haze",19,270,"W",1002,0,75,50,33,8,6,"yes"
-"Imphal","India","Manipur","24.817","93.950","Asia/Kolkata","2021-08-28 18:35","01:05 PM",25,"Partly cloudy",2,98,"E",1004,0,92,59,28,7,10,"no"
-"Shillong","India","Meghalaya","25.576","91.873","Asia/Kolkata","2021-08-28 18:35","01:05 PM",20,"Light rain shower",1,233,"SW",1005,1,94,70,20,5,10,"no"
-"Kohima","India","Nagaland","25.667","94.117","Asia/Kolkata","2021-08-28 18:35","01:05 PM",21,"Light rain shower",3,4,"N",1006,0.5,98,100,21,5,10,"no"
-"Bhubaneshwar","India","Orissa","20.233","85.833","Asia/Kolkata","2021-08-28 18:35","01:05 PM",27,"Light Rain",4,340,"NNW",998,1.3,100,75,29,7,2,"no"
-"Amaravati","India","Maharashtra","20.933","77.750","Asia/Kolkata","2021-08-28 20:45","03:15 PM",30,"Partly cloudy",16,339,"NNW",1000,0,65,38,33,7,10,"no"
-"Itanagar","India","Goa","27.100","93.617","Asia/Kolkata","2021-08-28 20:45","03:15 PM",22,"Moderate rain",3,74,"ENE",1006,3.3,100,100,22,5,7,"no"
-"Dispur","India","Assam","26.143","91.789","Asia/Kolkata","2021-08-28 20:45","03:15 PM",28,"Mist",0,0,"N",1004,0,84,75,36,5,3,"no"
-"Patna","India","Bihar","25.600","85.117","Asia/Kolkata","2021-08-28 20:45","03:15 PM",26,"Mist",15,100,"E",1002,2,79,75,28,7,3,"no"
-"Raipur","India","Chhattisgarh","21.233","81.633","Asia/Kolkata","2021-08-28 20:45","03:15 PM",32,"Patchy rain possible",1,321,"NW",999,2.3,63,73,38,7,9,"no"
-"Panaji","India","Goa","15.483","73.833","Asia/Kolkata","2021-08-28 20:45","03:15 PM",27,"Moderate or heavy rain shower",21,265,"W",1004,3.2,83,56,30,6,7,"no"
-"Gandhinagar","India","Gujarat","23.217","72.683","Asia/Kolkata","2021-08-28 20:45","03:15 PM",32,"Smoke",6,150,"SSE",1001,0,59,25,33,8,5,"no"
-"Chandigarh","India","Chandigarh","30.737","76.787","Asia/Kolkata","2021-08-28 20:45","03:15 PM",34,"Partly cloudy",9,324,"NW",999,0,55,11,41,8,10,"no"
-"Shimla","India","Himachal Pradesh","31.103","77.172","Asia/Kolkata","2021-08-28 20:45","03:15 PM",28,"Patchy rain possible",6,282,"WNW",1003,0.8,72,84,30,6,9,"no"
-"Ranchi","India","Jharkhand","23.350","85.333","Asia/Kolkata","2021-08-28 20:45","03:15 PM",26,"Haze",4,130,"SE",1005,2.4,89,75,29,6,4,"no"
-"Bengaluru","India","Karnataka","12.983","77.583","Asia/Kolkata","2021-08-28 20:45","03:15 PM",22,"Drizzle",11,250,"WSW",1009,1.4,83,75,25,5,5,"no"
-"Thiruvananthapuram","India","Kerala","8.507","76.957","Asia/Kolkata","2021-08-28 20:45","03:15 PM",25,"Light Rain, Rain",19,320,"NW",1008,0,94,75,28,6,3,"no"
-"Bhopal","India","Madhya Pradesh","23.267","77.400","Asia/Kolkata","2021-08-28 20:45","03:15 PM",26,"Haze",4,310,"NW",1004,0,79,75,28,7,5,"no"
-"Mumbai","India","Maharashtra","18.975","72.826","Asia/Kolkata","2021-08-28 20:45","03:15 PM",29,"Haze",15,250,"WSW",1003,0,79,75,32,7,4,"no"
-"Imphal","India","Manipur","24.817","93.950","Asia/Kolkata","2021-08-28 20:45","03:15 PM",22,"Partly cloudy",3,92,"E",1005,0,94,45,25,6,10,"no"
-"Shillong","India","Meghalaya","25.576","91.873","Asia/Kolkata","2021-08-28 20:45","03:15 PM",19,"Moderate or heavy rain shower",1,124,"SE",1006,5.7,97,69,19,4,7,"no"
-"Kohima","India","Nagaland","25.667","94.117","Asia/Kolkata","2021-08-28 20:45","03:15 PM",20,"Moderate or heavy rain shower",3,65,"ENE",1007,2.9,99,100,20,5,7,"no"
-"Bhubaneshwar","India","Orissa","20.233","85.833","Asia/Kolkata","2021-08-28 20:45","03:15 PM",27,"Light Rain With Thunderstorm",2,20,"NNE",1000,6.9,100,75,30,6,2,"no"
-"Amaravati","India","Maharashtra","20.933","77.750","Asia/Kolkata","2021-08-28 21:37","04:07 PM",28,"Patchy rain possible",13,340,"NNW",1001,0.5,72,89,32,6,9,"no"
-"Itanagar","India","Goa","27.100","93.617","Asia/Kolkata","2021-08-28 21:37","04:07 PM",20,"Fog",3,50,"NE",1007,0,100,100,20,1,0,"no"
-"Dispur","India","Assam","26.143","91.789","Asia/Kolkata","2021-08-28 21:37","04:07 PM",28,"Mist",0,0,"N",1004,0,84,75,36,1,3,"no"
-"Patna","India","Bihar","25.600","85.117","Asia/Kolkata","2021-08-28 21:37","04:07 PM",26,"Mist",11,90,"E",1002,0.1,84,75,28,1,3,"no"
-"Raipur","India","Chhattisgarh","21.233","81.633","Asia/Kolkata","2021-08-28 21:37","04:07 PM",30,"Patchy rain possible",3,189,"S",999,0.7,69,87,35,1,9,"no"
-"Panaji","India","Goa","15.483","73.833","Asia/Kolkata","2021-08-28 21:37","04:07 PM",26,"Light rain shower",20,263,"W",1005,1.7,86,65,29,6,10,"no"
-"Gandhinagar","India","Gujarat","23.217","72.683","Asia/Kolkata","2021-08-28 21:37","04:07 PM",31,"Smoke",7,160,"SSE",1001,0,63,50,33,8,4,"no"
-"Chandigarh","India","Chandigarh","30.737","76.787","Asia/Kolkata","2021-08-28 21:37","04:07 PM",31,"Partly cloudy",8,4,"N",999,0,63,8,36,8,10,"no"
-"Shimla","India","Himachal Pradesh","31.103","77.172","Asia/Kolkata","2021-08-28 21:37","04:07 PM",26,"Patchy rain possible",4,294,"WNW",1003,0.1,82,81,29,6,10,"no"
-"Ranchi","India","Jharkhand","23.350","85.333","Asia/Kolkata","2021-08-28 21:37","04:07 PM",26,"Haze",7,120,"ESE",1006,2.1,89,75,29,1,4,"no"
-"Bengaluru","India","Karnataka","12.983","77.583","Asia/Kolkata","2021-08-28 21:37","04:07 PM",22,"Drizzle",11,260,"W",1010,0,83,75,25,5,5,"no"
-"Thiruvananthapuram","India","Kerala","8.507","76.957","Asia/Kolkata","2021-08-28 21:37","04:07 PM",25,"Light Rain",7,340,"NNW",1008,0.7,94,75,28,6,3,"no"
-"Bhopal","India","Madhya Pradesh","23.267","77.400","Asia/Kolkata","2021-08-28 21:37","04:07 PM",26,"Haze",6,270,"W",1005,0.1,79,50,28,6,5,"no"
-"Mumbai","India","Maharashtra","18.975","72.826","Asia/Kolkata","2021-08-28 21:37","04:07 PM",29,"Haze",13,220,"SW",1003,0,75,75,33,7,4,"no"
-"Imphal","India","Manipur","24.817","93.950","Asia/Kolkata","2021-08-28 21:37","04:07 PM",22,"Light rain shower",3,138,"SE",1006,1.1,95,59,22,1,10,"no"
-"Shillong","India","Meghalaya","25.576","91.873","Asia/Kolkata","2021-08-28 21:37","04:07 PM",18,"Fog",3,146,"SE",1007,0.1,98,100,18,1,0,"no"
-"Kohima","India","Nagaland","25.667","94.117","Asia/Kolkata","2021-08-28 21:37","04:07 PM",19,"Light drizzle",3,117,"ESE",1008,0.2,99,91,19,1,2,"no"
-"Bhubaneshwar","India","Orissa","20.233","85.833","Asia/Kolkata","2021-08-28 21:37","04:07 PM",27,"Light Rain With Thunderstorm",2,30,"NNE",1001,0.2,100,75,31,1,3,"no"
-"Amaravati","India","Maharashtra","20.933","77.750","Asia/Kolkata","2021-08-30 16:03","10:33 AM",31,"Light rain shower",9,14,"NNE",1002,1.8,66,76,36,7,10,"yes"
-"Itanagar","India","Goa","27.100","93.617","Asia/Kolkata","2021-08-30 16:03","10:33 AM",26,"Light rain shower",3,133,"SE",1008,0.8,83,74,28,6,10,"yes"
-"Dispur","India","Assam","26.143","91.789","Asia/Kolkata","2021-08-30 16:03","10:33 AM",28,"Mist",0,0,"N",1005,0.3,84,75,32,7,5,"yes"
-"Patna","India","Bihar","25.600","85.117","Asia/Kolkata","2021-08-30 16:03","10:33 AM",30,"Haze",15,90,"E",1003,0.1,66,50,33,7,5,"yes"
-"Raipur","India","Chhattisgarh","21.233","81.633","Asia/Kolkata","2021-08-30 16:03","10:33 AM",31,"Overcast",17,82,"E",1002,0,63,100,36,7,10,"yes"
-"Panaji","India","Goa","15.483","73.833","Asia/Kolkata","2021-08-30 16:03","10:33 AM",28,"Partly cloudy",18,300,"WNW",1006,0,73,61,32,7,10,"yes"
-"Gandhinagar","India","Gujarat","23.217","72.683","Asia/Kolkata","2021-08-30 16:03","10:33 AM",34,"Smoke",11,270,"W",1002,0,56,75,43,7,5,"yes"
-"Chandigarh","India","Chandigarh","30.737","76.787","Asia/Kolkata","2021-08-30 16:03","10:33 AM",34,"Patchy rain possible",10,170,"S",1006,0.1,49,77,39,7,10,"yes"
-"Shimla","India","Himachal Pradesh","31.103","77.172","Asia/Kolkata","2021-08-30 16:03","10:33 AM",23,"Patchy rain possible",9,268,"W",1009,0.3,65,80,25,5,9,"yes"
-"Ranchi","India","Jharkhand","23.350","85.333","Asia/Kolkata","2021-08-30 16:03","10:33 AM",29,"Haze",19,130,"SE",1008,0.2,70,75,32,6,4,"yes"
-"Bengaluru","India","Karnataka","12.983","77.583","Asia/Kolkata","2021-08-30 16:03","10:33 AM",26,"Partly cloudy",31,290,"WNW",1009,0.1,61,75,27,6,8,"yes"
-"Thiruvananthapuram","India","Kerala","8.507","76.957","Asia/Kolkata","2021-08-30 16:03","10:33 AM",28,"Haze",17,290,"WNW",1006,0.1,94,75,32,6,5,"yes"
-"Bhopal","India","Madhya Pradesh","23.267","77.400","Asia/Kolkata","2021-08-30 16:03","10:33 AM",28,"Thunderstorm, Haze",7,320,"NW",1004,0.3,79,75,31,6,3,"yes"
-"Mumbai","India","Maharashtra","18.975","72.826","Asia/Kolkata","2021-08-30 16:03","10:33 AM",30,"Haze",15,310,"NW",1003,0,75,75,34,7,3,"yes"
-"Imphal","India","Manipur","24.817","93.950","Asia/Kolkata","2021-08-30 16:03","10:33 AM",25,"Patchy rain possible",3,309,"NW",1008,0.2,91,74,27,5,9,"yes"
-"Shillong","India","Meghalaya","25.576","91.873","Asia/Kolkata","2021-08-30 16:04","10:34 AM",21,"Light rain shower",2,282,"WNW",1009,1,92,57,21,5,10,"yes"
-"Kohima","India","Nagaland","25.667","94.117","Asia/Kolkata","2021-08-30 16:04","10:34 AM",23,"Light rain shower",1,253,"WSW",1009,0.5,97,60,25,5,10,"yes"
-"Bhubaneshwar","India","Orissa","20.233","85.833","Asia/Kolkata","2021-08-30 16:04","10:34 AM",30,"Light Rain",13,160,"SSE",1002,0,79,75,33,7,5,"yes"
+location.name,location.lat,location.lon,current.temperature,current.wind_speed,current.wind_degree,current.wind_dir,current.pressure,current.precip,current.humidity,current.cloudcover,current.feelslike,current.uv_index,current.visibility,current.is_day
+Mumbai,18.975,72.826,26,9,320,,1004,0.3,94,100,28,6,3,yes
+Itanagar,27.1,93.617,22,1,63,,1007,1.3,98,100,25,5,9,no
+Dispur,26.143,91.789,28,0,0,,1005,3.1,84,75,36,5,3,no
+Patna,25.6,85.117,28,11,70,,1001,4.7,74,75,31,7,4,no
+Raipur,21.233,81.633,29,12,247,,1000,2.1,74,60,34,6,10,no
+Panaji,15.483,73.833,27,13,272,,1007,0.7,73,86,30,6,10,no
+Gandhinagar,23.217,72.683,28,9,190,,1002,0,84,75,30,7,4,no
+Chandigarh,30.737,76.787,36,8,349,,998,0,40,6,40,9,10,no
+Shimla,31.103,77.172,27,6,284,,1003,0,67,11,29,7,10,no
+Ranchi,23.35,85.333,25,11,150,,1006,6,94,50,,5,4,no
+Bengaluru,12.983,77.583,22,13,300,,1012,0.4,88,75,,6,3,no
+Thiruvananthapuram,8.507,76.957,27,9,290,,1008,0,84,25,,6,5,no
+Bhopal,23.267,77.4,25,7,250,,1005,0,89,75,,5,3,no
+Mumbai,18.975,72.826,26,0,0,,,0,94,100,,7,3,no
+Imphal,24.817,93.95,21,3,282,,,0.4,97,96,,5,2,no
+Shillong,25.576,91.873,18,5,192,,,2.6,98,94,,4,7,no
+Kohima,25.667,94.117,19,1,248,,,2.3,99,100,,4,10,no
+Bhubaneshwar,20.233,85.833,28,7,190,,1003,0,89,75,,7,5,no
+Jaipur,26.917,75.817,33,0,325,,1001,0,49,50,33,9,3,no
+Chennai,13.083,80.283,30,13,200,,1004,0,70,50,34,7,5,no
+Gangtok,27.333,88.617,13,3,195,,1010,4.2,100,100,14,3,7,no
+Chennai,13.083,80.283,30,13,200,,1004,0,70,50,34,7,5,no
+Amaravati,20.933,77.75,23,16,264,,1003,0.1,96,99,25,1,10,yes
+Itanagar,27.1,93.617,22,3,224,,1007,1,100,100,25,1,9,yes
+Dispur,26.143,91.789,25,0,124,,1007,0.9,97,100,28,1,10,yes
+Patna,25.6,85.117,26,19,110,,1003,0.1,,75,29,1,3,yes
+Raipur,21.233,81.633,25,10,217,,1002,2.3,,65,29,1,9,yes
+Panaji,15.483,73.833,26,5,321,,1006,0.3,,56,28,1,10,yes
+Gandhinagar,23.217,72.683,26,11,216,,1003,0,,81,29,1,10,yes
+Chandigarh,30.737,76.787,25,9,131,,1002,0,,9,27,1,10,yes
+Shimla,31.103,77.172,17,5,76,,1006,0,,21,17,1,10,yes
+Ranchi,23.35,85.333,25,15,170,,1008,0.6,89,75,28,1,3,yes
+Bengaluru,12.983,77.583,21,12,255,,1008,0,86,38,21,1,10,yes
+Thiruvananthapuram,8.507,76.957,24,8,329,,1008,0.1,92,64,27,1,10,yes
+Bhopal,23.267,77.4,23,7,240,,1005,1.4,94,75,25,1,10,yes
+Mumbai,18.975,72.826,25,0,0,,1005,0.1,100,75,27,1,3,yes
+Imphal,24.817,93.95,21,2,203,,1009,3.4,99,100,21,1,7,yes
+Shillong,25.576,91.873,21,4,192,,1009,1.4,99,100,21,1,9,yes
+Kohima,25.667,94.117,18,1,180,,1010,0.9,99,100,18,1,4,yes
+Bhubaneshwar,20.233,85.833,26,4,120,,1004,0.2,100,75,29,1,5,yes
+Jaipur,26.917,75.817,29,9,300,,1003,0,70,75,31,1,3,yes
+Chennai,13.083,80.283,27,13,280,,1005,0.4,84,75,29,1,4,yes
+Gangtok,27.333,88.617,17,7,180,,1021,26.2,94,100,17,1,4,yes
+Amaravati,20.933,77.75,27,8,238,,1007,2.1,78,100,30,6,10,yes
+Itanagar,27.1,93.617,25,9,214,,1009,2.6,86,88,28,6,7,yes
+Dispur,26.143,91.789,32,13,270,,1006,0.9,59,75,40,7,5,yes
+Patna,25.6,85.117,31,15,110,,1005,3.2,55,50,38,7,5,yes
+Raipur,21.233,81.633,28,9,152,,1008,0,74,55,32,7,10,yes
+Panaji,15.483,73.833,28,10,258,,1010,0,72,47,32,7,10,yes
+Gandhinagar,23.217,72.683,27,7,330,,1006,0,,75,29,7,4,yes
+Chandigarh,30.737,76.787,25,3,101,,1009,0.8,,88,28,6,9,yes
+Shimla,31.103,77.172,21,1,51,,1012,1.4,,100,,5,9,yes
+Ranchi,23.35,85.333,30,15,190,,1010,0,,50,,7,4,yes
+Bengaluru,12.983,77.583,24,13,160,,1013,0,,75,,7,3,yes
+Thiruvananthapuram,8.507,76.957,29,19,290,,1008,0,,50,,7,6,yes
+Bhopal,23.267,77.4,28,6,230,,1007,4.3,74,75,,6,5,yes
+Mumbai,18.975,72.826,26,19,270,,1007,23,94,100,,6,3,yes
+Imphal,24.817,93.95,26,6,269,,1010,0,80,65,29,6,10,yes
+Shillong,25.576,91.873,21,3,227,,1012,2.9,91,64,21,5,7,yes
+Kohima,25.667,94.117,23,5,304,,1011,2.7,93,66,25,5,7,yes
+Bhubaneshwar,20.233,85.833,32,15,200,,1006,0,71,75,36,7,4,yes
+Amaravati,20.933,77.75,24,7,265,,1007,0,93,61,27,1,7,yes
+Itanagar,27.1,93.617,22,5,269,,1008,0,97,53,22,1,2,yes
+Dispur,26.143,91.789,28,0,0,,1006,0,84,75,35,1,5,yes
+Patna,25.6,85.117,26,0,0,,1006,0.9,84,75,29,1,3,yes
+Raipur,21.233,81.633,26,9,234,,1007,0.1,80,80,29,1,10,yes
+Panaji,15.483,73.833,26,3,204,,1008,0.3,85,76,28,1,9,yes
+Gandhinagar,23.217,72.683,26,11,220,,1005,0.3,94,75,29,1,3,yes
+Chandigarh,30.737,76.787,23,8,84,,1007,0.1,81,54,25,1,10,yes
+Shimla,31.103,77.172,16,5,74,,1011,0,90,62,16,1,10,yes
+Ranchi,23.35,85.333,25,7,260,,1011,0.1,89,50,28,1,3,yes
+Bengaluru,12.983,77.583,20,0,246,,1014,0.1,94,75,20,1,6,yes
+Thiruvananthapuram,8.507,76.957,26,7,340,,1009,0,89,50,30,1,3,yes
+Bhopal,23.267,77.4,24,9,220,,1008,0,94,75,27,1,2,yes
+Mumbai,18.975,72.826,26,9,150,,1008,0.4,94,75,29,1,3,yes
+Imphal,24.817,93.95,21,3,286,,1010,0,99,100,21,1,0,yes
+Shillong,25.576,91.873,21,6,213,,1011,0.3,98,82,21,1,10,yes
+Kohima,25.667,94.117,19,2,239,,1010,0.3,98,88,19,1,10,yes
+Bhubaneshwar,20.233,85.833,28,0,0,,1008,0,89,50,33,1,5,yes
+Jaipur,26.917,75.817,27,15,120,,1006,0.9,89,75,30,1,2,yes
+Amaravati,20.933,77.75,24,12,252,,1006,0.2,90,61,27,1,9,yes
+Itanagar,27.1,93.617,22,4,257,,1005,0.7,97,100,24,1,10,yes
+Dispur,26.143,91.789,24,3,253,,1004,0.6,95,74,27,1,10,yes
+Patna,25.6,85.117,30,10,261,,1003,2.3,76,74,36,1,9,yes
+Raipur,21.233,81.633,25,,,,,,,,,,,
+Panaji,15.483,73.833,26,,,,,,,,,,,
+Gandhinagar,23.217,72.683,27,,,,,,,,,,,
+Chandigarh,30.737,76.787,25,,,,,,,,,,,
+Shimla,31.103,77.172,16,,,,,,,,,,,
+Ranchi,23.35,85.333,24,,,,,,,,,,,
+Bengaluru,12.983,77.583,20,,,,,,,,,,,
+Thiruvananthapuram,8.507,76.957,25,,,,,,,,,,,
+Bhopal,23.267,,24,,,,,,,,,,,
+Mumbai,18.975,,27,,,,,,,,,,,
+Imphal,24.817,,21,3,286,,1007,0.1,97,93,21,1,1,yes
+Shillong,25.576,,21,8,210,,1008,0.4,96,74,21,1,10,yes
+Kohima,25.667,,19,3,204,,1008,0.1,96,61,19,1,2,yes
+Bhubaneshwar,20.233,,27,14,215,,1006,0.1,83,76,31,1,10,yes
+Jaipur,26.917,,28,10,218,,1003,0,71,14,31,1,10,yes
+Chennai,13.083,,27,17,211,,1007,0,76,30,30,1,10,yes
+Gangtok,27.333,,19,1,239,,1009,2.9,98,96,19,1,8,yes
+Amaravati,20.933,,26,12,271,,1008,0,84,19,29,7,10,yes
+Itanagar,27.1,,21,3,160,,1005,2.6,99,100,21,5,7,yes
+Dispur,26.143,,31,6,300,,,0.4,71,75,42,6,5,yes
+Patna,25.6,,27,6,250,,,0,84,75,29,8,4,yes
+Raipur,21.233,81.633,27,2,62,,,0,84,26,25,6,10,yes
+Panaji,15.483,73.833,26,9,280,,,0,79,75,32,7,3,yes
+Gandhinagar,23.217,72.683,29,11,290,,1015,0.5,78,50,26,5,6,yes
+Chandigarh,30.737,76.787,28,0,328,,1011,0,70,25,38,7,6,yes
+Shimla,31.103,77.172,23,20,210,,1010,0,84,50,30,6,3,yes
+Ranchi,23.35,85.333,28,9,230,,1008,0.1,84,50,35,6,3,yes
+Bengaluru,12.983,77.583,24,1,243,,1008,0,98,100,21,5,0,yes
+Thiruvananthapuram,8.507,76.957,30,6,219,,1008,0.6,96,74,25,5,10,yes
+Bhopal,23.267,77.4,26,3,165,,1008,3,99,100,21,5,7,yes
+Mumbai,18.975,72.826,29,6,280,,1006,0,75,25,37,7,6,yes
+Imphal,24.817,93.95,21,15,280,,1006,0,59,50,36,7,4,yes
+Shillong,25.576,91.873,23,9,220,,1009,0.1,71,25,38,6,5,yes
+Kohima,25.667,94.117,21,7,110,,1018,0,53,75,25,4,10,yes
+Bhubaneshwar,20.233,85.833,31,0,303,,1005,4.7,59,75,34,7,4,yes
+Jaipur,26.917,75.817,31,11,268,,1005,0,87,22,27,1,10,yes
+Chennai,13.083,80.283,31,2,53,,1003,42,100,100,25,5,5,yes
+Gangtok,27.333,88.617,23,6,350,,1002,8.6,84,75,36,5,3,yes
+Jaipur,26.917,75.817,31,6,190,,1001,0.1,94,100,27,7,3,yes
+Amaravati,20.933,77.75,25,13,236,,1004,0,,53,28,1,10,yes
+Itanagar,27.1,93.617,23,7,195,,1008,1.3,,39,29,1,10,yes
+Dispur,26.143,91.789,28,17,260,,1005,0,,75,30,1,4,yes
+Patna,25.6,85.117,25,6,123,,999,0,,40,27,1,10,yes
+Raipur,21.233,81.633,25,5,58,,1004,0,82,13,17,1,10,yes
+Panaji,,73.833,26,7,240,,1007,0.5,84,50,32,5,4,yes
+Gandhinagar,,72.683,27,11,280,,1014,1.9,94,75,21,1,6,yes
+Chandigarh,,76.787,25,0,0,,1010,0.3,89,25,33,1,4,yes
+Shimla,,77.172,17,17,230,,1008,1.6,89,50,27,1,3,
+Ranchi,,85.333,27,6,200,,1007,0.9,89,50,33,1,3,
+Bengaluru,12.983,77.583,21,3,225,,1005,1,99,100,20,5,10,
+Thiruvananthapuram,8.507,76.957,28,5,209,,1005,3.9,99,100,21,5,7,
+Bhopal,23.267,77.4,24,5,170,,1005,0,96,67,19,4,2,
+Mumbai,18.975,72.826,28,6,240,,1004,0,84,0,34,7,6,
+Imphal,24.817,93.95,20,9,280,,1004,0,66,50,32,1,3,
+Shillong,25.576,91.873,21,15,240,,1007,0,75,50,34,1,4,
+Kohima,25.667,94.117,19,11,150,,1016,11,69,75,21,4,8,
+Bhubaneshwar,20.233,85.833,29,22,272,,1005,0,73,51,28,7,10,
+Jaipur,26.917,75.817,29,1,176,,1006,6.9,99,100,21,5,7,
+Chennai,13.083,80.283,29,0,0,,1002,2.8,84,100,35,6,4,
+Gangtok,27.333,88.617,21,0,0,,1000,4.3,94,100,28,6,2,
+Amaravati,20.933,77.75,26,9,221,,1004,0.5,89,73,28,6,5,
+Itanagar,27.1,93.617,21,7,227,,1008,0.9,78,38,31,6,10,
+Dispur,26.143,91.789,28,19,250,,1003,0,70,75,35,6,5,
+Patna,25.6,85.117,25,6,164,,999,0,59,16,31,7,10,
+Raipur,21.233,81.633,25,2,289,,1002,0,63,24,25,6,10,
+Panaji,15.483,73.833,28,11,340,,1006,3.7,75,75,38,5,4,
+Gandhinagar,23.217,72.683,30,9,250,,1012,0.3,65,50,27,5,10,
+Chandigarh,30.737,76.787,29,0,270,,1008,0.1,79,50,31,7,5,
+Shimla,31.103,77.172,23,11,240,,1007,0,74,75,31,6,4,
+Ranchi,23.35,85.333,29,22,240,,1006,1,84,75,34,6,4,
+Bengaluru,12.983,77.583,25,,,,,,,,,,,
+Thiruvananthapuram,8.507,76.957,28,,,,,,,,,,,
+Bhopal,23.267,77.4,27,,,,,,,,,,,
+Mumbai,18.975,72.826,29,,,,,,,,,,,
+Imphal,24.817,93.95,22,19,320,,1003,0,55,50,35,7,4,
+Shillong,25.576,91.873,19,11,330,,1005,0.4,60,50,47,6,8,
+Kohima,25.667,94.117,23,9,160,,1017,0.8,83,100,19,3,4,
+Bhubaneshwar,20.233,85.833,32,9,290,,1010,0.5,89,75,29,6,6,
+Jaipur,26.917,75.817,30,9,320,,1000,0,89,100,37,7,4,
+Chennai,13.083,80.283,34,7,300,,1000,0,80,75,42,8,3,
+Gangtok,27.333,88.617,19,10,279,,1004,0,79,13,26,1,10,
+Hyderabad,17.375,78.474,26,4,65,,1006,25.3,100,100,25,5,5,
+Lucknow,26.85,80.917,31,6,40,,1005,15.9,89,100,33,5,3,
+Kolkata,22.57,88.37,33,6,130,,1003,1.4,89,75,29,6,3,
+Amaravati,20.933,77.75,24,8,276,,1003,0,79,40,28,1,10,
+Itanagar,27.1,93.617,22,5,14,,1005,0,85,44,29,1,10,
+Dispur,26.143,91.789,27,13,230,,1003,0,84,25,28,1,3,
+Patna,25.6,85.117,26,9,118,,1000,0,66,46,29,1,10,
+Raipur,21.233,81.633,26,4,41,,1004,0,71,34,20,1,10,
+Panaji,15.483,73.833,26,4,320,,1007,1,89,75,26,5,3,
+Gandhinagar,23.217,72.683,26,13,260,,1011,3.3,94,100,25,1,6,
+Chandigarh,30.737,76.787,27,0,0,,1008,0,94,75,29,1,4,
+Shimla,31.103,77.172,20,9,180,,1006,0,83,25,26,1,5,
+Ranchi,23.35,85.333,24,9,170,,1005,1,89,75,30,1,3,
+Bengaluru,12.983,77.583,22,3,65,,1007,1.9,99,100,20,5,10,
+Thiruvananthapuram,8.507,76.957,26,4,172,,1006,14.7,99,100,21,5,5,
+Bhopal,23.267,77.4,24,5,139,,1007,2.5,99,91,18,4,9,
+Mumbai,18.975,72.826,27,0,0,,1003,0.2,94,100,32,1,3,
+Imphal,24.817,93.95,20,17,270,,1003,0,70,50,29,1,3,
+Shillong,25.576,91.873,21,6,260,,1005,0.6,84,75,30,1,5,
+Kohima,25.667,94.117,18,0,49,,1020,0.9,94,100,17,4,5,
+Bhubaneshwar,20.233,85.833,27,12,285,,1005,0.8,87,76,25,1,10,
+Jaipur,26.917,75.817,27,6,320,,1002,0.3,89,100,32,1,3,
+Chennai,13.083,80.283,27,9,30,,1003,0,89,75,36,6,3,
+Gangtok,27.333,88.617,17,16,278,,1006,0,60,18,32,7,10,
+Hyderabad,17.375,78.474,23,4,65,,1009,1.4,98,100,25,5,9,
+Lucknow,26.85,80.917,28,6,20,,1005,0.5,84,75,36,5,4,
+Kolkata,22.57,88.37,29,15,100,,1003,0.1,84,75,30,6,3,
+Amaravati,20.933,77.75,29,6,282,,1005,0,64,29,32,7,10,
+Itanagar,27.1,93.617,23,4,317,,1008,0.1,76,84,32,6,10,
+Dispur,26.143,91.789,28,15,220,,1003,0,56,50,37,7,5,
+Patna,25.6,85.117,27,10,152,,1002,0,55,30,35,8,10,
+Raipur,21.233,81.633,29,5,300,WNW,1005,0,64,31,25,6,10,
+Panaji,15.483,73.833,28,9,10,N,1007,0.1,75,50,37,6,4,
+Gandhinagar,23.217,72.683,32,13,280,W,1011,0.3,70,75,28,5,6,
+Chandigarh,30.737,76.787,31,19,290,WNW,1008,0,75,50,36,6,6,
+Shimla,31.103,77.172,22,11,250,WSW,1007,0,70,50,32,7,5,
+Ranchi,23.35,85.333,30,17,240,WSW,1005,0.2,75,75,36,6,4,
+Bengaluru,12.983,77.583,26,4,90,E,1009,0.3,93,57,,5,10,
+Thiruvananthapuram,8.507,76.957,30,4,136,SE,1009,0.1,92,71,,5,10,
+Bhopal,23.267,77.4,28,2,125,SE,1010,0,98,100,21,5,0,
+Mumbai,18.975,72.826,30,4,70,ENE,1002,0.1,67,75,45,6,5,
+Imphal,24.817,93.95,24,9,321,NW,1002,0.1,76,83,29,1,10,
+Shillong,25.576,91.873,20,1,126,SE,1005,2.2,100,100,20,1,9,
+Kohima,25.667,94.117,21,0,0,N,1004,1.5,84,75,36,1,3,
+Bhubaneshwar,20.233,85.833,32,6,20,NNE,1002,0,94,75,28,1,3,
+Amaravati,20.933,77.75,26,4,37,NE,1001,0.5,86,50,29,1,10,
+Itanagar,27.1,93.617,20,12,303,WNW,1004,1.1,84,62,28,1,10,
+Dispur,26.143,91.789,28,9,260,W,1003,0,79,75,29,1,4,
+Patna,25.6,85.117,25,12,123,ESE,1002,0.2,87,82,25,1,10,
+Raipur,21.233,81.633,26,6,54,NE,1005,0.1,85,79,16,1,10,
+Panaji,15.483,73.833,26,7,120,ESE,1006,0.7,94,75,26,1,2,
+Gandhinagar,23.217,72.683,27,13,260,W,1010,4.6,94,75,20,1,6,
+Chandigarh,30.737,76.787,23,7,360,N,1007,1.2,94,75,28,1,3,
+Shimla,31.103,77.172,16,4,250,WSW,1006,0,89,25,26,1,3,
+Ranchi,23.35,85.333,24,11,110,ESE,1004,0.1,94,75,30,1,3,
+Bengaluru,12.983,77.583,20,2,106,ESE,1006,0,98,100,20,1,0,
+Thiruvananthapuram,8.507,76.957,25,6,193,SSW,1006,0.7,99,100,20,1,2,
+Bhopal,23.267,77.4,24,4,164,SSE,1007,0,98,100,18,1,0,
+Mumbai,18.975,72.826,27,4,340,NNW,1001,0,94,75,31,1,5,
+Imphal,24.817,93.95,20,14,324,NW,1000,0,59,46,35,8,10,
+Shillong,25.576,91.873,20,2,102,ESE,1005,0.7,99,100,22,5,10,
+Kohima,25.667,94.117,18,0,0,N,1002,0,79,75,38,5,4,
+Bhubaneshwar,20.233,85.833,27,13,90,E,1000,0.4,79,75,28,7,3,
+Amaravati,20.933,77.75,31,5,20,NNE,999,0.8,59,62,38,7,10,
+Itanagar,27.1,93.617,22,21,265,W,1004,0.1,79,50,32,6,10,
+Dispur,26.143,91.789,29,7,110,ESE,1000,0,56,25,34,9,6,
+Patna,25.6,85.117,27,11,307,NW,999,0,46,15,40,8,10,
+Raipur,21.233,81.633,32,9,286,WNW,1003,0.2,62,80,29,6,9,
+Panaji,15.483,73.833,28,0,0,N,1004,0.3,84,75,29,6,4,
+Gandhinagar,23.217,72.683,33,20,250,WSW,1007,0.3,69,75,26,5,6,
+Chandigarh,30.737,76.787,35,15,320,NW,1007,0,94,100,27,6,2,
+Shimla,31.103,77.172,28,0,0,N,1003,0,74,75,29,8,5,
+Ranchi,23.35,85.333,27,19,270,W,1002,0,75,50,33,8,6,
+Bengaluru,12.983,77.583,24,2,98,E,1004,0,92,59,28,7,10,
+Thiruvananthapuram,8.507,76.957,25,,,,,,,,,,,
+Bhopal,23.267,77.4,27,,,,,,,,,,,
+Mumbai,18.975,72.826,30,,,,,,,,,,,
+Imphal,24.817,93.95,25,,,,,,,,,,,
+Shillong,25.576,91.873,20,3,74,ENE,1006,3.3,100,100,22,5,7,
+Kohima,25.667,94.117,21,0,0,N,1004,0,84,75,36,5,3,
+Bhubaneshwar,20.233,85.833,27,15,100,E,1002,2,79,75,28,7,3,
+Amaravati,20.933,77.75,30,1,321,NW,999,2.3,63,73,38,7,9,
+Itanagar,27.1,93.617,22,21,265,W,1004,3.2,83,56,30,6,7,
+Dispur,26.143,91.789,28,6,150,SSE,1001,0,59,25,33,8,5,
+Patna,25.6,85.117,26,9,324,NW,999,0,55,11,41,8,10,
+Raipur,21.233,81.633,32,6,282,WNW,1003,0.8,72,84,30,6,9,
+Panaji,15.483,73.833,27,4,130,SE,1005,2.4,89,75,29,6,4,
+Gandhinagar,23.217,72.683,32,11,250,WSW,1009,1.4,83,75,25,5,5,
+Chandigarh,30.737,76.787,34,19,320,NW,1008,0,94,75,28,6,3,
+Shimla,31.103,77.172,28,4,310,NW,1004,0,79,75,28,7,5,
+Ranchi,23.35,85.333,26,15,250,WSW,1003,0,79,75,32,7,4,
+Bengaluru,12.983,77.583,22,3,92,E,1005,0,94,45,25,6,10,
+Thiruvananthapuram,8.507,76.957,25,1,124,SE,1006,5.7,97,69,19,4,7,
+Bhopal,23.267,77.4,26,3,65,ENE,1007,2.9,99,100,20,5,7,
+Mumbai,18.975,72.826,29,2,20,NNE,1000,6.9,100,75,30,6,2,
+Imphal,24.817,93.95,22,13,340,NNW,1001,0.5,72,89,32,6,9,
+Shillong,25.576,91.873,19,3,50,NE,1007,0,100,100,20,1,0,
+Kohima,25.667,94.117,20,0,0,N,1004,0,84,75,36,1,3,
+Bhubaneshwar,20.233,85.833,27,11,90,E,1002,0.1,84,75,28,1,3,
+Amaravati,20.933,77.75,28,3,189,S,999,0.7,69,87,35,1,9,
+Itanagar,27.1,93.617,20,20,263,W,1005,1.7,86,65,29,6,10,
+Dispur,26.143,91.789,28,7,160,SSE,1001,0,63,50,33,8,4,
+Patna,25.6,85.117,26,8,4,N,999,0,63,8,36,8,10,
+Raipur,21.233,81.633,30,4,294,WNW,1003,0.1,82,81,29,6,10,
+Panaji,15.483,73.833,26,7,120,ESE,1006,2.1,89,75,29,1,4,
+Gandhinagar,23.217,72.683,31,11,260,W,1010,0,83,75,25,5,5,
+Chandigarh,30.737,76.787,31,7,340,NNW,1008,0.7,94,75,28,6,3,
+Shimla,31.103,77.172,26,6,270,W,1005,0.1,79,50,28,6,5,
+Ranchi,23.35,85.333,26,13,220,SW,1003,0,75,75,33,7,4,
+Bengaluru,12.983,77.583,22,3,138,SE,1006,1.1,95,59,22,1,10,
+Thiruvananthapuram,8.507,76.957,25,3,146,SE,1007,0.1,98,100,18,1,0,
+Bhopal,23.267,77.4,26,3,117,ESE,1008,0.2,99,91,19,1,2,
+Mumbai,18.975,72.826,29,2,30,NNE,1001,0.2,100,75,31,1,3,
+Imphal,24.817,93.95,22,9,14,NNE,1002,1.8,66,76,36,7,10,
+Shillong,25.576,91.873,18,3,133,SE,1008,0.8,83,74,28,6,10,
+Kohima,25.667,94.117,19,0,0,N,1005,0.3,84,75,32,7,5,
+Bhubaneshwar,20.233,85.833,27,15,90,E,1003,0.1,66,50,33,7,5,
+Amaravati,20.933,77.75,31,,,,,,,,,,,
+Itanagar,27.1,93.617,26,,,,,,,,,,,
+Dispur,26.143,91.789,28,,,,,,,,,,,
+Patna,25.6,85.117,30,,,,,,,,,,,
+Raipur,21.233,81.633,31,9,268,W,1009,0.3,65,80,25,5,9,
+Panaji,15.483,73.833,28,19,130,SE,1008,0.2,70,75,32,6,4,
+Gandhinagar,23.217,72.683,34,31,290,WNW,1009,0.1,61,75,27,6,8,
+Chandigarh,30.737,76.787,34,17,290,WNW,1006,0.1,94,75,32,6,5,
+Shimla,31.103,77.172,23,7,320,NW,1004,0.3,79,75,31,6,3,
+Ranchi,23.35,85.333,29,15,310,NW,1003,0,75,75,34,7,3,
+Bengaluru,12.983,77.583,26,3,309,NW,1008,0.2,91,74,27,5,9,
+Thiruvananthapuram,8.507,76.957,28,2,282,WNW,1009,1,92,57,21,5,10,
+Bhopal,23.267,77.4,28,1,253,WSW,1009,0.5,97,60,25,5,10,
+Mumbai,18.975,72.826,30,13,160,SSE,1002,0,79,75,33,7,5,
+Imphal,24.817,93.95,25,,,,,,,,,,,
+Shillong,25.576,91.873,21,,,,,,,,,,,
+Kohima,25.667,94.117,23,,,,,,,,,,,
+Bhubaneshwar,20.233,85.833,30,,,,,,,,,,,
